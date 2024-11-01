@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Custom Admin Login - WordPress plugin to make a "
+"customized admin login page\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-20 05:44+0000\n"
+"PO-Revision-Date: 2018-03-20 06:27+0000\n"
+"Last-Translator: 8Degree Themes <sunil@access-keys.com>\n"
+"Language-Team: Nepali\n"
+"Language: ne_NP\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/classes/wcal-customizer.php:355
+msgid " to change Membership option"
+msgstr "सदस्यता विकल्प परिवर्तन गर्न"
+
+#: inc/classes/wcal-customizer.php:1762
+msgid " to Get reCaptcha"
+msgstr "रि-कापचा प्राप्त गर्न"
+
+#. Author of the plugin
+msgid "8Degree Themes"
+msgstr "८ डिग्री थेम्स "
+
+#. Description of the plugin
+msgid "A plugin to add unlimited customization to your admin login page."
+msgstr "तपाईको व्यवस्थापक लगइन पृष्ठमा असीमित अनुकूलन थप्न प्लगइन।"
+
+#: inc/classes/wcal-customizer.php:2171
+msgid "Add Social Icon"
+msgstr "सामाजिक आइकन थप्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:2225
+msgid "Add your own css to the login page here."
+msgstr "यहाँ लगइन पृष्ठमा आफ्नै सी.एस.एस. थप्नुहोस्।"
+
+#: inc/classes/wcal-customizer.php:2126
+msgid "Additional Content"
+msgstr "अतिरिक्त सामग्री"
+
+#: inc/classes/wcal-customizer.php:277
+msgid "Admin Page Templates"
+msgstr "व्यवस्थापक पृष्ठ टेम्प्लेटहरू"
+
+#: inc/classes/wcal-customizer.php:2107
+msgid "API Key"
+msgstr "API की "
+
+#: inc/classes/wcal-customizer.php:1934
+msgid "App ID"
+msgstr "एप्प आइ.डी. "
+
+#: inc/classes/wcal-customizer.php:1946
+msgid "App Secret"
+msgstr "एप्प सिक्रेट"
+
+#: inc/classes/wcal-customizer.php:1115
+#: inc/classes/wcal-frontend-components/wcal-backto-text.php:5
+msgid "Back to "
+msgstr "फिर्ता जानु "
+
+#: inc/classes/wcal-customizer.php:1612
+msgid "Back to Color"
+msgstr "फिर्ता गर्न रंग"
+
+#: inc/classes/wcal-customizer.php:1107
+msgid "Back to Section"
+msgstr "फिर्ता जानु खण्ड"
+
+#: inc/classes/wcal-customizer.php:1121
+msgid "Back to Text"
+msgstr "फिर्ता जानु अक्छेर "
+
+#: inc/classes/wcal-customizer.php:1137
+msgid "Back to URL"
+msgstr "फिर्ता जानु URL"
+
+#: inc/classes/wcal-customizer.php:472
+msgid "Background"
+msgstr "पृष्ठभूमि"
+
+#: inc/classes/wcal-customizer.php:512 inc/classes/wcal-customizer.php:1203
+msgid "Background Color"
+msgstr "पृष्ठभूमि रंग"
+
+#: inc/classes/wcal-customizer.php:617
+msgid "Background Overlay Color"
+msgstr "पृष्ठभूमि ओभरले रंग"
+
+#: inc/classes/wcal-customizer.php:1166
+msgid "Background Settings"
+msgstr "पृष्ठभूमि सेटिङहरू"
+
+#: inc/classes/wcal-customizer.php:1719
+msgid "Button Active Color"
+msgstr "बटन सक्रिय रङ"
+
+#: inc/classes/wcal-customizer.php:1560
+msgid "Button Text Color"
+msgstr "बटन अक्छेर रङ्ग"
+
+#: inc/classes/wcal-customizer.php:1803
+msgid "Captcha Error Mesage"
+msgstr "क्याप्चा त्रुटि सन्देश"
+
+#: inc/classes/wcal-customizer.php:355 inc/classes/wcal-customizer.php:1762
+msgid "Click "
+msgstr "क्लिक गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:2095
+msgid "Client ID"
+msgstr "ग्राहक ID"
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:265
+msgid "Close"
+msgstr "बन्द गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:2014
+msgid "Consumer Key"
+msgstr "उपभोक्ता की "
+
+#: inc/classes/wcal-customizer.php:2026
+msgid "Consumer Secret"
+msgstr "उपभोक्ता सिक्रेट"
+
+#: inc/classes/wcal-customizer.php:1054
+msgid "Create an account?"
+msgstr "खाता खोल्नुहोस्?"
+
+#: inc/classes/wcal-customizer.php:1920
+msgid "Create Facebook App"
+msgstr "Facebook एप्प सिर्जना गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:2081
+msgid "Create Google Project"
+msgstr "Google परियोजना सिर्जना गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:2000
+msgid "Create Twitter App"
+msgstr "ट्विटर एप्प  सिर्जना गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:2215 inc/classes/wcal-customizer.php:2223
+msgid "Custom CSS Section"
+msgstr "अनुकूलन CSS खण्ड"
+
+#: inc/classes/wcal-customizer.php:1138
+msgid "Default link: "
+msgstr "पूर्वनिर्धारित लिङ्क:"
+
+#: inc/classes/wcal-customizer.php:1093
+msgid "Default value is: "
+msgstr "पूर्वनिर्धारित मान हो:"
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:264
+msgid "Delete"
+msgstr "मेटाउन"
+
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:118
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:182
+msgid "Design"
+msgstr "डिजाइन"
+
+#: inc/classes/wcal-customizer.php:702
+msgid "Disable video on Android Devices"
+msgstr "एन्ड्रोइड उपकरणहरूमा भिडियो अक्षम गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:715
+msgid "Disable video on IOS Devices"
+msgstr "IOS उपकरणमा भिडियो अक्षम गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:255
+msgid "Disable WP Custom Admin Login"
+msgstr "WP कस्टम व्यवस्थापक लगइन अक्षम गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:342
+msgid "Display Options"
+msgstr "प्रदर्शन विकल्पहरू"
+
+#: inc/classes/wcal-customizer.php:459 inc/classes/wcal-customizer.php:1155
+msgid "Enable Customization"
+msgstr "अनुकूलन सक्षम गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1908
+msgid "Enable Facebook Login"
+msgstr "फेसबुक लगइन सक्षम गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:2069
+msgid "Enable Google Login"
+msgstr "Google लगइन सक्षम गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1749
+msgid "Enable Google reCaptcha"
+msgstr "Google reCaptcha सक्षम पार्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1845
+msgid "Enable Google reCaptcha on forget_password form"
+msgstr "forget_password फारममा Google पुन: क्याप्चा सक्षम गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1817
+msgid "Enable Google reCaptcha on login form"
+msgstr "लगइन फारममा Google reCaptcha सक्षम पार्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1831
+msgid "Enable Google reCaptcha on register form"
+msgstr "रेजिफिकेटमा Google रिकोप्चा सक्षम गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:241
+msgid "Enable Plugin"
+msgstr "प्लगइन सक्षम गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1988
+msgid "Enable Twitter Login"
+msgstr "ट्विटर लगइन सक्षम गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1750 inc/classes/wcal-customizer.php:1818
+#: inc/classes/wcal-customizer.php:1832 inc/classes/wcal-customizer.php:1846
+msgid "Enable/ Disable Google reCaptcha."
+msgstr "Google reCaptcha सक्षम / असक्षम पार्नुहोस्।"
+
+#: inc/classes/wcal-customizer.php:769
+msgid "End time in seconds when video will be ended."
+msgstr "भिडियो समाप्त हुने बेला सेकेण्डमा अन्त्य समय।"
+
+#: inc/classes/wcal-customizer.php:1804
+msgid "Enter Captcha Error Mesage"
+msgstr "क्याप्चा त्रुटि मेसेज प्रविष्ट गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1791
+msgid "Enter Google secret key"
+msgstr "Google गोप्य की प्रविष्ट गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1778
+msgid "Enter Google site key"
+msgstr "Google साइट की प्रविष्ट गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1893
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:44
+msgid "Facebook"
+msgstr "फेसबुक"
+
+#: inc/classes/wcal-customizer.php:1360
+msgid "Field Background Color"
+msgstr "क्षेत्र पृष्ठभूमि रंग"
+
+#: inc/classes/wcal-customizer.php:1387
+msgid "Field Border"
+msgstr "क्षेत्र सीमा"
+
+#: inc/classes/admin/wcal-how-to.php:12
+msgid "Follow us for new updates"
+msgstr "हामीलाई नयाँ अद्यावधिकहरूको लागि पछ्याउनुहोस्"
+
+#: inc/classes/wcal-customizer.php:2199
+msgid "Footer Section"
+msgstr "फुटर खण्ड"
+
+#: inc/classes/wcal-customizer.php:2209
+msgid "Footer Text"
+msgstr "फुटर अक्छेर "
+
+#: inc/classes/wcal-customizer.php:1692
+msgid "Footer Text Color"
+msgstr "फुटर अक्छेर रङ"
+
+#: inc/classes/wcal-customizer.php:1534
+msgid "Forgot Password Color"
+msgstr "पासवर्ड भूल गए रंग"
+
+#: inc/classes/wcal-customizer.php:1341
+msgid "Form Fields"
+msgstr "फारम फिल्डहरू"
+
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:34
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:101
+msgid "General"
+msgstr "सामान्य"
+
+#: inc/classes/wcal-customizer.php:2053
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:69
+msgid "Google"
+msgstr "गूगल"
+
+#: inc/classes/wcal-customizer.php:1735
+msgid "Google Captcha"
+msgstr "गुगल क्याप्चा"
+
+#: inc/classes/wcal-customizer.php:1429
+msgid "Header Color"
+msgstr "हेडर रङ"
+
+#: inc/classes/wcal-customizer.php:313
+msgid "Header Section"
+msgstr "हेडर खण्ड"
+
+#: inc/classes/wcal-customizer.php:327
+msgid "Header Title"
+msgstr "हेडर शीर्षक"
+
+#: inc/classes/wcal-customizer.php:355 inc/classes/wcal-customizer.php:1762
+msgid "here"
+msgstr "यहाँ"
+
+#: inc/classes/wcal-customizer.php:394
+msgid "Hide Back to option"
+msgstr "फिर्ता जानु विकल्प लुकाउनुहोस्"
+
+#: inc/classes/wcal-customizer.php:407
+msgid "Hide Logo"
+msgstr "लोगो लुकाउनुहोस्"
+
+#: inc/classes/wcal-customizer.php:370
+msgid "Hide Lost Password"
+msgstr "हराइएको पासवर्ड लुकाउनुहोस्"
+
+#: inc/classes/wcal-customizer.php:382
+msgid "Hide Remember me"
+msgstr "मलाई सम्झनुहोस् लुकाउनुहोस् "
+
+#. Author URI of the plugin
+msgid "http://8degreethemes.com"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:904
+msgid "Icon Color"
+msgstr "प्रतिमा रङ"
+
+#: inc/classes/wcal-customizer.php:1482
+msgid "Label Color"
+msgstr "लेबल रंग"
+
+#: inc/classes/wcal-customizer.php:1960 inc/classes/wcal-customizer.php:2040
+#: inc/classes/wcal-customizer.php:2121
+msgid "Label Text"
+msgstr "लेबल अक्छेर "
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:140
+#: inc/classes/customizer-class/wcal-repeater-class.php:240
+msgid "Latest Posts"
+msgstr "नवीनतम पोस्टहरू"
+
+#: inc/classes/wcal-customizer.php:975
+msgid "Login Form"
+msgstr "लगइन फारम"
+
+#: inc/classes/social-login/login_integration.php:76
+msgid "Login with"
+msgstr "लगइन गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1953
+msgid "Login with Facebook"
+msgstr "फेसबुकसँग लगइन गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:2114
+msgid "Login with Google+"
+msgstr "गुगल + संग लग इन गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1858
+msgid "Login with Social Media"
+msgstr "सोशल मिडियासँग लग इन गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:2033
+msgid "Login with Twitter"
+msgstr "ट्विटर संग लगइन"
+
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:244
+msgid "Logo"
+msgstr "लोगो"
+
+#: inc/classes/wcal-customizer.php:444
+msgid "Logo Hover Title"
+msgstr "लोगो होभर शीर्षक"
+
+#: inc/classes/wcal-customizer.php:431
+msgid "Logo URL"
+msgstr "लोगो URL"
+
+#: inc/classes/wcal-customizer.php:988
+msgid "Lost Password"
+msgstr "हराएको पासवर्ड"
+
+#: inc/classes/wcal-customizer.php:1002
+msgid "Lost Password Text"
+msgstr "पासवर्ड पाठ हरायो"
+
+#: inc/classes/wcal-customizer.php:996
+#: inc/classes/wcal-frontend-components/wcal-forgot-password.php:4
+msgid "Lost your password?"
+msgstr "तपाईको पासवर्ड हरायो?"
+
+#: inc/classes/wcal-templates/wcal-template-2.php:47
+msgid "Member Login"
+msgstr "सदस्य लगिन"
+
+#: inc/classes/wcal-customizer.php:741
+msgid "Mute Volume"
+msgstr "भोल्युम मौन गर्नुहोस्"
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:123
+msgid "No image selected"
+msgstr "कुनै छवि चयन गरिएको छैन"
+
+#: inc/classes/wcal-customizer.php:687
+msgid "Only supports mp4 videos."
+msgstr "केवल mp4 भिडियोहरू समर्थन गर्दछ।"
+
+#: inc/classes/wcal-customizer.php:1872
+msgid "or"
+msgstr "वा"
+
+#: inc/classes/wcal-customizer.php:1879
+msgid "or Text"
+msgstr "वा अक्छेर "
+
+#: inc/classes/wcal-customizer.php:672
+msgid "Place Vimeo URL"
+msgstr "Vimeo URL राख्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:658
+msgid "Place Youtube URL"
+msgstr "यूट्यूब URL राख्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:729
+msgid "Play video only when it is visible on the screen."
+msgstr "स्क्रिनमा देखिने बेला मात्र भिडियो प्ले गर्नुहोस्।"
+
+#: inc/classes/wcal-customizer.php:728
+msgid "Play Video only when visible"
+msgstr "दृश्यात्मक रूपमा भिडियो मात्र प्ले गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:804
+msgid "Primary Color"
+msgstr "प्राथमिक रंग"
+
+#: inc/classes/wcal-customizer.php:1070
+#: inc/classes/wcal-frontend-components/wcal-registration.php:6
+msgid "Register"
+msgstr "दर्ता गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1586
+msgid "Register Color"
+msgstr "दर्ता रङ"
+
+#: inc/classes/wcal-customizer.php:1046
+msgid "Registration"
+msgstr "दर्ता"
+
+#: inc/classes/wcal-customizer.php:1076
+msgid "Registration Link Text"
+msgstr "दर्ता लिंक अक्छेर "
+
+#: inc/classes/wcal-customizer.php:1060
+msgid "Registration Text"
+msgstr "दर्ता अक्छेर "
+
+#: inc/classes/wcal-customizer.php:1092
+msgid "Registration URL"
+msgstr "दर्ता URL"
+
+#: inc/classes/wcal-customizer.php:1017 inc/classes/wcal-customizer.php:1025
+msgid "Remember Me"
+msgstr "मलाई सम्झनुहोस्"
+
+#: inc/classes/wcal-frontend-components/wcal-remember-me.php:5
+msgid "Remember me"
+msgstr "मलाई सम्झनुहोस्"
+
+#: inc/classes/wcal-customizer.php:1508
+msgid "Remember me Color"
+msgstr "मलाई सम्झनुहोस् रङ"
+
+#: inc/classes/wcal-customizer.php:1031
+msgid "Rememeber Me Text"
+msgstr "सम्झनुहोस् मलाई अक्छेर "
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:129
+msgid "Remove"
+msgstr "हटाउनुहोस्"
+
+#: inc/classes/wcal-customizer.php:256
+msgid "Save setting and refresh to see changes"
+msgstr "परिवर्तनहरू सेव गर्नुहोस् र परिवर्तनहरू हेर्नका लागि रिफ्रेश गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:832
+msgid "Secondary Color"
+msgstr "सेकेन्डर रङ"
+
+#: inc/classes/wcal-customizer.php:1790
+msgid "Secret Key"
+msgstr "गुप्त की "
+
+#: inc/classes/wcal-customizer.php:584 inc/classes/wcal-customizer.php:1277
+msgid "Select Background Position"
+msgstr "पृष्ठभूमि स्थिति चयन गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:564 inc/classes/wcal-customizer.php:1256
+msgid "Select Background Repeat"
+msgstr "पृष्ठभूमि दोहोरो चयन गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:546 inc/classes/wcal-customizer.php:1238
+msgid "Select Background Size"
+msgstr "पृष्ठभूमि साइज चयन गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:486 inc/classes/wcal-customizer.php:1180
+msgid "Select Background Type"
+msgstr "पृष्ठभूमि प्रकार चयन गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:640
+msgid "Select Background Video Type"
+msgstr "पृष्ठभूमि भिडियो प्रकार चयन गर्नुहोस्"
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:139
+msgid "Select Category"
+msgstr "कोटी चयन गर्नुहोस्"
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:130
+msgid "Select Image"
+msgstr "चित्र चयन गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:261
+msgid "Select Template"
+msgstr "टेम्प्लेट चयन गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:685
+msgid "Set Background Video"
+msgstr "पृष्ठभूमि भिडियो सेट गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:417
+msgid "Set Logo"
+msgstr "लोगो सेट गर्नुहोस्"
+
+#: inc/classes/wcal-customizer.php:1866 inc/classes/wcal-customizer.php:1880
+msgid "Shows in accordance to Template"
+msgstr "टेम्प्लेट अनुसार प्रदर्शन गर्दछ"
+
+#: inc/classes/wcal-customizer.php:1777
+msgid "Site Key"
+msgstr "साइट की "
+
+#: inc/classes/wcal-customizer.php:1865
+msgid "Social Header"
+msgstr "सामाजिक हेडर"
+
+#: inc/classes/wcal-customizer.php:2170 inc/classes/wcal-customizer.php:2176
+msgid "Social Icon"
+msgstr "सामाजिक चिह्न"
+
+#: inc/classes/wcal-customizer.php:884
+msgid "Social Icon Colors"
+msgstr "सामाजिक चिह्न रंगहरू"
+
+#: inc/classes/wcal-customizer.php:2168
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:280
+msgid "Social Icons"
+msgstr "सामाजिक चिह्नहरू"
+
+#: inc/classes/wcal-customizer.php:1851
+msgid "Social Login"
+msgstr "सामाजिक लगइन"
+
+#: inc/classes/wcal-customizer.php:1665
+msgid "Social Login Or Color"
+msgstr "सामाजिक लगइन वा रंग"
+
+#: inc/classes/wcal-customizer.php:1638
+msgid "Social Login Text Color"
+msgstr "सामाजिक लग अक्छेर  रंग"
+
+#: inc/classes/wcal-customizer.php:754
+msgid ""
+"Start time in seconds when video will be started (this value will be applied "
+"also after loop)."
+msgstr "भिडियो सुरू गर्दा सेकेन्डमा सुरु समय (यो मान लूप पछि पनि लागू हुनेछ)।"
+
+#: inc/classes/wcal-customizer.php:1456
+msgid "Tagline Color"
+msgstr "ट्यागलाइन रंग"
+
+#: inc/classes/wcal-customizer.php:784
+msgid "Template Colors"
+msgstr "टेम्प्लेट रंग"
+
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:175
+msgid "Templates"
+msgstr "टेम्प्लेटहरू"
+
+#: inc/classes/wcal-customizer.php:860
+msgid "Tertiary Color"
+msgstr "टिर्टियरी रंग"
+
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:236
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:273
+msgid "Text"
+msgstr "अक्छेर "
+
+#: inc/classes/wcal-customizer.php:1409
+msgid "Text Colors"
+msgstr "अक्छेर रंगहरू"
+
+#: inc/classes/social-login/login_check.php:22
+msgid ""
+"The Facebook SDK requires PHP version 5.4 or higher. Please notify about "
+"this error to site admin."
+msgstr ""
+"फेसबुक एसडीकेले PHP संस्करण 5.4 वा माथिको आवश्यक पर्दछ। साइट व्यवस्थापकमा यो "
+"त्रुटिको बारेमा कृपया सूचित गर्नुहोस्।"
+
+#: inc/classes/wcal-customizer.php:236
+msgid "This section allows you to customize the login page of your website."
+msgstr "यस खण्डले तपाईंलाई आफ्नो वेबसाइटको लग इन पेज अनुकूलन गर्न अनुमति दिन्छ"
+
+#: inc/classes/wcal-customizer.php:2188
+msgid "Tooltip"
+msgstr "टूलटिप"
+
+#: inc/classes/wcal-customizer.php:960
+msgid "Tooltip Background"
+msgstr "टूलटिप पृष्ठभूमि"
+
+#: inc/classes/wcal-customizer.php:932
+msgid "Tooltip Text"
+msgstr "टुलटिप अक्छेर "
+
+#: inc/classes/wcal-customizer.php:1973
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:57
+msgid "Twitter"
+msgstr "ट्विटर"
+
+#: inc/classes/wcal-customizer.php:1318
+msgid "Typography"
+msgstr "टाइपोग्राफी"
+
+#: inc/classes/wcal-customizer.php:1303
+msgid "Typography Settings"
+msgstr "टाइपोग्राफी सेटिंग्स"
+
+#: inc/classes/wcal-customizer.php:2182
+msgid "URL"
+msgstr "URL"
+
+#: inc/classes/core/wcal-last-login.php:40
+msgid "User Last Login"
+msgstr "प्रयोगकर्ता अन्तिम लगइन"
+
+#: inc/classes/wcal-customizer.php:768
+msgid "Video End Time"
+msgstr "भिडियो अन्त्य समय"
+
+#: inc/classes/wcal-customizer.php:753
+msgid "Video Start Time"
+msgstr "भिडियो सुरु समय"
+
+#: inc/classes/wcal-customizer.php:235 inc/views/backend/wcal-settings.php:22
+msgid "WP Custom Admin Login"
+msgstr "WP कस्टम व्यवस्थापक लगइन"
+
+#. Name of the plugin
+msgid ""
+"WP Custom Admin Login - WordPress plugin to make a customized admin login "
+"page"
+msgstr ""
+"WP कस्टम व्यवस्थापक लगइन - एक अनुकूलित व्यवस्थापक लगइन पेज बनाउन को लागि "
+"WordPress प्लगइन"
+
+#: inc/classes/social-login/login_integration.php:64
+#: inc/classes/social-login/login_integration.php:112
+msgid "You have Access Denied. Please authorize the app to login."
+msgstr ""
+"तपाइँसँग पहुँच अस्वीकृत छ। कृपया लगइन गर्न अनुप्रयोगलाई प्राधिकृत गर्नुहोस्।"

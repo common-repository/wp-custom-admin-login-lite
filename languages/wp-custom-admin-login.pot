@@ -1,0 +1,668 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Custom Admin Login - WordPress plugin to make a "
+"customized admin login page\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-20 05:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/classes/wcal-customizer.php:355
+msgid " to change Membership option"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1762
+msgid " to Get reCaptcha"
+msgstr ""
+
+#. Author of the plugin
+msgid "8Degree Themes"
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin to add unlimited customization to your admin login page."
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2171
+msgid "Add Social Icon"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2225
+msgid "Add your own css to the login page here."
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2126
+msgid "Additional Content"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:277
+msgid "Admin Page Templates"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2107
+msgid "API Key"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1934
+msgid "App ID"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1946
+msgid "App Secret"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1115
+#: inc/classes/wcal-frontend-components/wcal-backto-text.php:5
+msgid "Back to "
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1612
+msgid "Back to Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1107
+msgid "Back to Section"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1121
+msgid "Back to Text"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1137
+msgid "Back to URL"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:472
+msgid "Background"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:512 inc/classes/wcal-customizer.php:1203
+msgid "Background Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:617
+msgid "Background Overlay Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1166
+msgid "Background Settings"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1719
+msgid "Button Active Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1560
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1803
+msgid "Captcha Error Mesage"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:355 inc/classes/wcal-customizer.php:1762
+msgid "Click "
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2095
+msgid "Client ID"
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:265
+msgid "Close"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2014
+msgid "Consumer Key"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2026
+msgid "Consumer Secret"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1054
+msgid "Create an account?"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1920
+msgid "Create Facebook App"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2081
+msgid "Create Google Project"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2000
+msgid "Create Twitter App"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2215 inc/classes/wcal-customizer.php:2223
+msgid "Custom CSS Section"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1138
+msgid "Default link: "
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1093
+msgid "Default value is: "
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:264
+msgid "Delete"
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:118
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:182
+msgid "Design"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:702
+msgid "Disable video on Android Devices"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:715
+msgid "Disable video on IOS Devices"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:255
+msgid "Disable WP Custom Admin Login"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:342
+msgid "Display Options"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:459 inc/classes/wcal-customizer.php:1155
+msgid "Enable Customization"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1908
+msgid "Enable Facebook Login"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2069
+msgid "Enable Google Login"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1749
+msgid "Enable Google reCaptcha"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1845
+msgid "Enable Google reCaptcha on forget_password form"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1817
+msgid "Enable Google reCaptcha on login form"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1831
+msgid "Enable Google reCaptcha on register form"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:241
+msgid "Enable Plugin"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1988
+msgid "Enable Twitter Login"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1750 inc/classes/wcal-customizer.php:1818
+#: inc/classes/wcal-customizer.php:1832 inc/classes/wcal-customizer.php:1846
+msgid "Enable/ Disable Google reCaptcha."
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:769
+msgid "End time in seconds when video will be ended."
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1804
+msgid "Enter Captcha Error Mesage"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1791
+msgid "Enter Google secret key"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1778
+msgid "Enter Google site key"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1893
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:44
+msgid "Facebook"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1360
+msgid "Field Background Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1387
+msgid "Field Border"
+msgstr ""
+
+#: inc/classes/admin/wcal-how-to.php:12
+msgid "Follow us for new updates"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2199
+msgid "Footer Section"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2209
+msgid "Footer Text"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1692
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1534
+msgid "Forgot Password Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1341
+msgid "Form Fields"
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:34
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:101
+msgid "General"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2053
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:69
+msgid "Google"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1735
+msgid "Google Captcha"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1429
+msgid "Header Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:313
+msgid "Header Section"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:327
+msgid "Header Title"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:355 inc/classes/wcal-customizer.php:1762
+msgid "here"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:394
+msgid "Hide Back to option"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:407
+msgid "Hide Logo"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:370
+msgid "Hide Lost Password"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:382
+msgid "Hide Remember me"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://8degreethemes.com"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:904
+msgid "Icon Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1482
+msgid "Label Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1960 inc/classes/wcal-customizer.php:2040
+#: inc/classes/wcal-customizer.php:2121
+msgid "Label Text"
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:140
+#: inc/classes/customizer-class/wcal-repeater-class.php:240
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:975
+msgid "Login Form"
+msgstr ""
+
+#: inc/classes/social-login/login_integration.php:76
+msgid "Login with"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1953
+msgid "Login with Facebook"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2114
+msgid "Login with Google+"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1858
+msgid "Login with Social Media"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2033
+msgid "Login with Twitter"
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:244
+msgid "Logo"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:444
+msgid "Logo Hover Title"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:431
+msgid "Logo URL"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:988
+msgid "Lost Password"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1002
+msgid "Lost Password Text"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:996
+#: inc/classes/wcal-frontend-components/wcal-forgot-password.php:4
+msgid "Lost your password?"
+msgstr ""
+
+#: inc/classes/wcal-templates/wcal-template-2.php:47
+msgid "Member Login"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:741
+msgid "Mute Volume"
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:123
+msgid "No image selected"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:687
+msgid "Only supports mp4 videos."
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1872
+msgid "or"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1879
+msgid "or Text"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:672
+msgid "Place Vimeo URL"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:658
+msgid "Place Youtube URL"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:729
+msgid "Play video only when it is visible on the screen."
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:728
+msgid "Play Video only when visible"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:804
+msgid "Primary Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1070
+#: inc/classes/wcal-frontend-components/wcal-registration.php:6
+msgid "Register"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1586
+msgid "Register Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1046
+msgid "Registration"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1076
+msgid "Registration Link Text"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1060
+msgid "Registration Text"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1092
+msgid "Registration URL"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1017 inc/classes/wcal-customizer.php:1025
+msgid "Remember Me"
+msgstr ""
+
+#: inc/classes/wcal-frontend-components/wcal-remember-me.php:5
+msgid "Remember me"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1508
+msgid "Remember me Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1031
+msgid "Rememeber Me Text"
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:129
+msgid "Remove"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:256
+msgid "Save setting and refresh to see changes"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:832
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1790
+msgid "Secret Key"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:584 inc/classes/wcal-customizer.php:1277
+msgid "Select Background Position"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:564 inc/classes/wcal-customizer.php:1256
+msgid "Select Background Repeat"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:546 inc/classes/wcal-customizer.php:1238
+msgid "Select Background Size"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:486 inc/classes/wcal-customizer.php:1180
+msgid "Select Background Type"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:640
+msgid "Select Background Video Type"
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:139
+msgid "Select Category"
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-repeater-class.php:130
+msgid "Select Image"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:261
+msgid "Select Template"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:685
+msgid "Set Background Video"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:417
+msgid "Set Logo"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1866 inc/classes/wcal-customizer.php:1880
+msgid "Shows in accordance to Template"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1777
+msgid "Site Key"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1865
+msgid "Social Header"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2170 inc/classes/wcal-customizer.php:2176
+msgid "Social Icon"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:884
+msgid "Social Icon Colors"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2168
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:280
+msgid "Social Icons"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1851
+msgid "Social Login"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1665
+msgid "Social Login Or Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1638
+msgid "Social Login Text Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:754
+msgid ""
+"Start time in seconds when video will be started (this value will be applied "
+"also after loop)."
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1456
+msgid "Tagline Color"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:784
+msgid "Template Colors"
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:175
+msgid "Templates"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:860
+msgid "Tertiary Color"
+msgstr ""
+
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:236
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:273
+msgid "Text"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1409
+msgid "Text Colors"
+msgstr ""
+
+#: inc/classes/social-login/login_check.php:22
+msgid ""
+"The Facebook SDK requires PHP version 5.4 or higher. Please notify about "
+"this error to site admin."
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:236
+msgid "This section allows you to customize the login page of your website."
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2188
+msgid "Tooltip"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:960
+msgid "Tooltip Background"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:932
+msgid "Tooltip Text"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1973
+#: inc/classes/customizer-class/wcal-customizer-tabs/customizer.php:57
+msgid "Twitter"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1318
+msgid "Typography"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:1303
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:2182
+msgid "URL"
+msgstr ""
+
+#: inc/classes/core/wcal-last-login.php:40
+msgid "User Last Login"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:768
+msgid "Video End Time"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:753
+msgid "Video Start Time"
+msgstr ""
+
+#: inc/classes/wcal-customizer.php:235 inc/views/backend/wcal-settings.php:22
+msgid "WP Custom Admin Login"
+msgstr ""
+
+#. Name of the plugin
+msgid ""
+"WP Custom Admin Login - WordPress plugin to make a customized admin login "
+"page"
+msgstr ""
+
+#: inc/classes/social-login/login_integration.php:64
+#: inc/classes/social-login/login_integration.php:112
+msgid "You have Access Denied. Please authorize the app to login."
+msgstr ""
